@@ -1,1 +1,1 @@
-# TypingGame
+객체지향언어2(JAVA) - 3학년 2학기
